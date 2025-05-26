@@ -107,7 +107,7 @@ A RESTful API built using Node.js, Express.js, and MongoDB, allowing users to ma
     ```
 2.  GET /books – List Books (pagination, filter)
     ```http
-    GET /books?page=1&limit=10&author=Robert&genre=Programming
+    GET /books?page=1&limit=10&author=Premchand=Story
     ```
  3. GET /books/:id – Book Details with Avg Rating + Reviews
     ```http
